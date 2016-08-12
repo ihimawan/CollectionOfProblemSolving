@@ -1,4 +1,4 @@
-//write a function that takes in an int and returns a string that would be how one would say that number (ex: 123 -&gt; one hundred twenty three; 50019 -&gt; five thousand nineteen).
+
 
 #include <iostream>
 using namespace std;
